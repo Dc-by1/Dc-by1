@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Darren Chua Boon Yee
 =============================================================================================================================================
 
-Year 1 Computer Network & Security Undergraduate | Cybersecurity Enthusiast
+Year 1 Student in Computer Network & Security | Cybersecurity Enthusiast
 ---------------------------------------------------------------------------
 
 I’m a first-year undergraduate student at Universiti Teknologi Malaysia (UTM), currently pursuing a Bachelor of Computer Network and Security.
